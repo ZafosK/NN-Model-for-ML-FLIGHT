@@ -10,4 +10,5 @@ The result is a model that performs really well on a course that closely resembl
 As a further experiment a boulder was placed right between two checkpoints(as shown below) in a way that didn't resemble any part of the tracks in the Training scene.<br> Even though the agents tend to crash on it, usually at least one agent will overcome the object before crashing on it four times.
 
 ![boulder between checkpoints](https://github.com/ZafosK/NN-Model-for-ML-FLIGHT/blob/master/boulder.PNG?raw=true)
-Format: ![Alt Text](url)
+
+[Here is a poorly recorded video](https://youtu.be/W9mfhN_iPRc) showing how the agents perform using the nn file provided. If you look closely you will notice  that one agent manages to overcome the boulder relatively fast. 
